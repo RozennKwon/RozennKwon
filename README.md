@@ -22,8 +22,8 @@
 - **[Hospital Job Crawler]**: 42개 상급종합병원 채용 공고 자동 수집 및 GitHub Actions 기반 파이프라인 운영
 
 ### ✍️ Blogs
-- **[Until.blog](https://until.blog/@opstoqa0): QA 엔지니어로 나아가는 여정과 기술 학습 내용을 한글로 기록합니다.
+- **[Until.blog](https://until.blog/@opstoqa0)**: QA 엔지니어로 나아가는 여정과 기술 학습 내용을 한글로 기록합니다.
 - **[Medium Blog](https://medium.com/@rozennkwon)**: 글로벌 공유를 위해 국문 포스팅을 **직접 영문으로 번역**하여 게시하고 있습니다.
 
 ### 📫 Contact
-- 📧 rozenkwon@gmail.com
+- 📧 rozennkwon@gmail.com
